@@ -1,4 +1,4 @@
-# Exerícios
+# Exercícios
 //Exercicio cores RGB
 <!DOCTYPE html>
 <html>
